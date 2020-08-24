@@ -1,0 +1,13 @@
+D:\Visual Studio Projects\Dawn's Spam Bot\bin\Debug\Dawn's Spam Bot.exe.config
+D:\Visual Studio Projects\Dawn's Spam Bot\bin\Debug\Dawn's Spam Bot.exe
+D:\Visual Studio Projects\Dawn's Spam Bot\bin\Debug\Dawn's Spam Bot.pdb
+D:\Visual Studio Projects\Dawn's Spam Bot\bin\Debug\dje-NE\Dawn's Spam Bot.resources.dll
+D:\Visual Studio Projects\Dawn's Spam Bot\obj\Debug\Dawn's Spam Bot.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Dawn's Spam Bot\obj\Debug\Dawn_s_Spam_Bot.Form1.resources
+D:\Visual Studio Projects\Dawn's Spam Bot\obj\Debug\Dawn_s_Spam_Bot.Properties.Resources.resources
+D:\Visual Studio Projects\Dawn's Spam Bot\obj\Debug\Dawn_s_Spam_Bot.Form1.dje-NE.resources
+D:\Visual Studio Projects\Dawn's Spam Bot\obj\Debug\Dawn's Spam Bot.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Dawn's Spam Bot\obj\Debug\Dawn's Spam Bot.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Dawn's Spam Bot\obj\Debug\dje-NE\Dawn's Spam Bot.resources.dll
+D:\Visual Studio Projects\Dawn's Spam Bot\obj\Debug\Dawn's Spam Bot.exe
+D:\Visual Studio Projects\Dawn's Spam Bot\obj\Debug\Dawn's Spam Bot.pdb
